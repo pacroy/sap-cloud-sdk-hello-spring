@@ -1,0 +1,8 @@
+logging:
+  level:
+    me.chairat.scp.spring.hello: DEBUG
+    com.sap.cloud.sdk: INFO
+    root: WARN
+
+server:
+  port: 8080
